@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Estou me desenvolvendo como desenvolvedora, com foco em JavaScript e Node.js. Meu objetivo é desenvolver aplicações web bem estruturadas, com código claro e eficiência. Gosto tanto de desenvolvimento front-end como também de back-ends estruturados, confiáveis e escaláveis. Prefiro adquirir conhecimento através da prática, elaborando projetos que me estimulem a resolver problemas reais, ao mesmo tempo em que estudo novas tecnologias e melhores práticas na área de programação.<br><br><br>-🔭 Atualmente, me dedico a projetos práticos utilizando JavaScript e Node.js.<br>-🌱 O foco dos meus estudos é desenvolvimento web, focando em desenvolvimento front-end e back-end.<br>-⚡ Fun fact: Estudo programação mesmo após um dia exaustivo na escola.👩‍💻</p>
+<p align="left">Estou me desenvolvendo como desenvolvedora, com foco em JavaScript e Node.js. Meu objetivo é desenvolver aplicações web bem estruturadas, com código claro e eficiência. Gosto tanto de desenvolvimento front-end como também de back-ends estruturados, confiáveis e escaláveis. Prefiro adquirir conhecimento através da prática, elaborando projetos que me estimulem a resolver problemas reais, ao mesmo tempo em que estudo novas tecnologias e melhores práticas na área de programação.<br><br><br>-🔭 Atualmente, me dedico a projetos práticos utilizando JavaScript e Node.js.<br>-🌱 O foco dos meus estudos é desenvolvimento web, focando em desenvolvimento front-end e back-end.</p>
 
 ###
 
@@ -43,10 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
